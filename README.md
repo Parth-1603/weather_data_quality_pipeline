@@ -1,5 +1,5 @@
 # Live Weather Data Quality and OLAP Analytics Pipeline
-**Semester 5 — Data Engineering Mini Project (DE MP)**
+**Data Engineering**
 
 A high-performance Python + DuckDB data engineering pipeline that fetches real-time and multi-day hourly weather data from the public Open-Meteo API, applies rigorous data quality checks, quarantines defective observations, stores records in an embedded DuckDB columnar store, executes analytical OLAP queries, and generates reports and visualizations.
 
