@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+data/*.duckdb
+data/*.wal
+data/raw/*
+data/clean/*
+data/quarantine/*
+reports/*.csv
+reports/*.md
+reports/*.png
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+!data/quarantine/.gitkeep
+!reports/.gitkeep
